@@ -1,9 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html><head>
-
+<html template="true"><head>
 
   
-  <meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type"><title>About</title>
+  <meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type"><title>Template</title>
   
 
   
@@ -11,12 +10,11 @@
   <link rel="stylesheet" type="text/css" href="http://localhost/tswnavbar.css">
 
   
-  <meta content="About Janice" name="description"></head><body style="color: black; background-color: rgb(204, 204, 204);" alink="#000099" link="#000099" vlink="#990099">
+  <meta content="Template" name="description"></head><body style="color: black; background-color: rgb(204, 204, 204);" alink="#000099" link="#000099" vlink="#990099">
 <h1><img style="width: 128px; height: 128px;" alt="JPM Tech Zone" src="Logo.JPG" align="left" hspace="20"><span style="color: rgb(0, 0, 153);">JPM Tech Zone</span>
 </h1>
 
-<h3 style="color: rgb(0, 0, 153);"><span style="font-family: Helvetica,Arial,sans-serif;">About Janice<br>
-</span></h3>
+<h3 style="color: rgb(0, 0, 153);"><span style="font-family: Helvetica,Arial,sans-serif;">Subtitle</span></h3>
 
 <br>
 
@@ -38,7 +36,7 @@
         <li><a href="activedirectory.html">Active Directory</a></li>
         <li><a href="wmi.html">WMI</a></li>
         <li><a href="template.html">Template</a></li>
-        
+        <li><a href="bio.html">Bio</a></li>
         <li><a href="aboutus.html">About</a></li>
       </ul>
       </div>
@@ -51,10 +49,7 @@
 
 <br>
 
-Janice on LinkedIn<br>
-Janice on Git<br>
 <br>
-Thanks to <br>
 
 <br>
 
